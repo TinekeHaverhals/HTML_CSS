@@ -1,0 +1,102 @@
+                                        body {
+                                        margin-top: -1%;
+                                        background-color: lightgray;
+                                        max-width: 800px;
+                                    }
+                                    
+                                    #style {
+                                        margin-left: 180px;
+                                        margin-right: 5%;
+                                    }
+                                    
+                                    .Navigatie {
+                                        margin-top: 2%;
+                                        height: 100%;
+                                        width: 160px;
+                                        position: fixed;
+                                        z-index: 1;
+                                        top: 0;
+                                        left: 0;
+                                        background-color: #111;
+                                        overflow-x: hidden;
+                                        padding-top: 20px;
+                                    }
+                                    
+                                    .Navigatie a {
+                                        padding: 6px 8px 6px 16px;
+                                        text-decoration: none;
+                                        font-size: 20px;
+                                        color: #818181;
+                                        display: block;
+                                        text-align: center;
+                                    }
+                                    
+                                    .Navigatie a:hover {
+                                        color: #f1f1f1;
+                                    }
+                                    
+                                    #underline {
+                                        padding: 6px 8px 6px 16px;
+                                        text-decoration: underline;
+                                        font-size: 25px;
+                                        color: #818181;
+                                        display: block;
+                                        text-align: center;
+                                    }
+                                    
+                                    img {
+                                        border-radius: 50%;
+                                        max-width: 100%;
+                                        height: auto;
+                                        float: right;
+                                        margin-right: 5%;
+                                    }
+                                    
+                                    h1 {
+                                        font-family: fantasy;
+                                        margin-left: 20px;
+                                        font-size: 55px;
+                                        text-shadow: 2px 2px 5px #818181;
+                                    }
+                                    
+                                    h2 {
+                                        font-weight: 900;
+                                    }
+                                    
+                                    q {
+                                        font-family: cursive;
+                                    }
+                                    
+                                    h4 {
+                                        border: 1px solid;
+                                        border-color: white;
+                                    }
+                                    
+                                    table {
+                                        width: 100%;
+                                    }
+                                    
+                                    table,
+                                    th,
+                                    td {
+                                        border: 1px solid black;
+                                        border-collapse: collapse;
+                                    }
+                                    
+                                    th,
+                                    td {
+                                        padding: 15px;
+                                        text-align: left;
+                                    }
+                                    
+                                    #travel tr:nth-child(even) {
+                                        background-color: lightgray;
+                                    }
+                                    
+                                    #travel tr:nth-child(odd) {
+                                        background-color: white;
+                                    }
+                                    
+                                    #travel th {
+                                        background-color: black;
+                                        color: white;
